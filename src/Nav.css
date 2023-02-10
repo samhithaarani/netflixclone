@@ -1,0 +1,26 @@
+.nav
+{
+    position:fixed;
+    top:0;
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    height:100px;
+    z-index: 1;
+}
+.logo
+{
+    object-fit: contain;
+    height: 100px;
+    width: 50px;
+    left: 20px;
+}
+
+.logo2
+{
+    object-fit: contain;
+    height:120px;
+    width: 130px;
+    right: 20px;
+}
+
